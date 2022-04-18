@@ -556,3 +556,9 @@
 - [ ] Conduct a technical audit.
 - [ ] Conduct a backlink audit.
 - [ ] Determine keyword strategy.
+    
+#### Q65 How many H1 tags are typically found on a single page?
+- [ ] one
+- [ ] two
+- [ ] as many as necessary
+- [ ] up to five
